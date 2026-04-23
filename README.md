@@ -39,7 +39,7 @@ Atualmente também estudo Python com interesse em inteligência artificial.
 ### 🎟️ TicketPrime
 Sistema de venda de ingressos com autenticação, controle de usuários e regras de negócio.
 
-🔗 https://github.com/ThauaCerqueira/ticketprime_api
+🔗 https://github.com/pdfreitass/ticketprime_api-main
 
 ---
 
@@ -51,12 +51,8 @@ Sistema de venda de ingressos com autenticação, controle de usuários e regras
 
 ---
 
-## 🎯 Objetivo
-
-Busco uma oportunidade de estágio ou primeira experiência profissional como desenvolvedor back-end.
-
----
-
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/pedrofreitass/
+
+- Email: pedrofreitas.contato10@gmail.com
