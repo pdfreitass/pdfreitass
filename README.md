@@ -1,8 +1,6 @@
-# 👋 Fala, eu sou o Pedro Freitas
+# Fala, eu sou o Pedro Freitas 👋
 
-💻 Estudante de Ciência da Computação (5º período)  
-🚀 Focado em desenvolvimento Back-end  
-📍 Teresópolis - RJ  
+Estudante de Ciência da Computação | Desenvolvedor Back-end em formação | C# • .NET • APIs REST • SQL Server • Python 
 
 ---
 
@@ -16,23 +14,24 @@ Atualmente também estudo Python com interesse em inteligência artificial.
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Stack principal
 
-💻 **Back-end**
-- C#
-- .NET / ASP.NET
-- APIs REST
+### 💻 Backend
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![API REST](https://img.shields.io/badge/API-REST-FF6F00?style=for-the-badge)
 
-🗄️ **Banco de dados**
-- SQL Server
-- Dapper
+### 🗄️ Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-FF5733?style=for-the-badge)
 
-🛠️ **Ferramentas**
-- Git & GitHub
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-🐍 **Outros**
-- Python
-
+### 🐍 Outros
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## 📌 Projetos em destaque
