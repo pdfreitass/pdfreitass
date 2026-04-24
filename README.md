@@ -6,11 +6,11 @@ Estudante de Ciência da Computação | Desenvolvedor Back-end em formação | C
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor em formação com foco em back-end, apaixonado por entender como as coisas funcionam por trás.
+Sou um desenvolvedor em formação com foco em back-end e curto bastante entender como as coisas funcionam por trás.
 
-Tenho experiência prática com desenvolvimento de APIs utilizando C# e .NET, integração com banco de dados SQL Server e construção de sistemas com regras de negócio reais.
+Já venho trabalhando com C# e .NET no desenvolvimento de APIs, integração com SQL Server e construção de sistemas com regras de negócio reais.
 
-Atualmente também estudo Python com interesse em inteligência artificial.
+Atualmente também estou estudando Python e explorando mais a área de inteligência artificial.
 
 ---
 
