@@ -24,7 +24,6 @@ Atualmente também estou estudando Python e explorando mais a área de inteligê
 
 ### 🗄️ Banco de Dados
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-FF5733?style=for-the-badge)
 
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,15 +40,6 @@ Sistema de venda de ingressos com autenticação, controle de usuários e regras
 
 🔗 https://github.com/pdfreitass/ticketprime_api-main
 
----
-
-## 📈 Atualmente estudando
-
-- Arquitetura de sistemas
-- Boas práticas em back-end
-- Inteligência Artificial com Python
-
----
 
 ## 📫 Contato
 
