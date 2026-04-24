@@ -1,4 +1,4 @@
-# Fala, eu sou o Pedro Freitas 👋
+# Pedro Freitas
 
 Estudante de Ciência da Computação | Desenvolvedor Back-end em formação | C# • .NET • APIs REST • SQL Server • Python 
 
