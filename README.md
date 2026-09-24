@@ -1,29 +1,30 @@
-# Pedro Freitas
+# Olá, eu sou o Pedro 👋
 
-Estudante de Ciência da Computação | Desenvolvedor Back-end em formação | C# • .NET • APIs REST • SQL Server • Python 
+**Estudante de Ciência da Computação (UNIFESO) · Desenvolvedor Full Stack Jr. · Buscando estágio**
 
----
+Construo aplicações completas, com base forte em back-end com **C# e ASP.NET Core** e front-end com **React, TypeScript e Next.js**. Estou me aprofundando em **Python**, principalmente para automação, dados e IA.
 
-## 🧠 Sobre mim
+## Como eu trabalho
 
-Sou um desenvolvedor em formação com foco em back-end e no atual momento estou me jogando nesse mundo da IA.
+Uso **Spec-Driven Development (SDD)**: antes de codar, documento contexto, visão do produto, arquitetura e decisões técnicas (ADRs). Uso IA como ferramenta de implementação, guiada pela especificação, e reviso tudo o que ela gera.
 
-Já venho trabalhando com C# e .NET no desenvolvimento de APIs, integração com SQL Server e construção de sistemas com regras de negócio reais.
+## Stack
 
-Atualmente também estou estudando Python e explorando mais a área de inteligência artificial.
+- **Back-end:** C#, ASP.NET Core, APIs REST, Dapper, JWT
+- **Banco de dados:** SQL Server
+- **Front-end:** React, TypeScript, Next.js, Blazor, Tailwind CSS
+- **Outros:** Python, Git
 
----
-
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 ### 🎟️ TicketPrime
-Sistema de venda de ingressos com autenticação, controle de usuários e regras de negócio.
+Sistema de venda de ingressos com autenticação JWT, controle de acesso por perfil e gestão de capacidade.
+ASP.NET Core · Dapper · SQL Server · Blazor Server
+🔗 [Ver repositório](https://github.com/pdfreitass/ticketprime_api-main)
 
-🔗 https://github.com/pdfreitass/ticketprime_api-main
+<!-- Adicione aqui MarcaAqui e NutriFlow quando os repositórios estiverem públicos -->
 
+## Contato
 
-## 📫 Contato
-
-- LinkedIn: https://www.linkedin.com/in/pedrofreitass/
-
-- Email: pedrofreitas.contato10@gmail.com
+- LinkedIn: [linkedin.com/in/pedrofreitass](https://www.linkedin.com/in/pedrofreitass/)
+- E-mail: pedrofreitas.contato10@gmail.com
