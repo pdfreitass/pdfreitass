@@ -12,7 +12,7 @@ Uso **Spec-Driven Development (SDD)**: antes de codar, documento contexto, visã
 
 - **Back-end:** C#, ASP.NET Core, APIs REST, Dapper, JWT
 - **Banco de dados:** SQL Server
-- **Front-end:** React, TypeScript, Next.js, Blazor, Tailwind CSS
+- **Front-end:** Blazor, MudBlazor, React, TypeScript, Next.js, Tailwind CSS
 - **Outros:** Python, Git
 
 ## Projetos em destaque
@@ -22,7 +22,12 @@ Sistema de venda de ingressos com autenticação JWT, controle de acesso por per
 ASP.NET Core · Dapper · SQL Server · Blazor Server
 🔗 [Ver repositório](https://github.com/pdfreitass/ticketprime_api-main)
 
-<!-- Adicione aqui MarcaAqui e NutriFlow quando os repositórios estiverem públicos -->
+### 💪 FitUP
+[Uma frase sobre o que o app faz]. Projeto voltado ao aprendizado de front-end com componentes MudBlazor.
+C# · Blazor · MudBlazor
+🔗 [Ver repositório](https://github.com/pdfreitass/FitUP)
+
+<!-- Adicione o MarcaAqui aqui quando o repositório estiver público -->
 
 ## Contato
 
