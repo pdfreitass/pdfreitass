@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro 👋
 
-**Estudante de Ciência da Computação (UNIFESO) · Desenvolvedor Full Stack Jr. · Buscando estágio**
+**Estudante de Ciência da Computação (UNIFESO) · Desenvolvedor Full Stack. · Buscando estágio**
 
 Construo aplicações completas, com base forte em back-end com **C# e ASP.NET Core** e front-end com **React, TypeScript e Next.js**. Estou me aprofundando em **Python**, principalmente para automação, dados e IA.
 
